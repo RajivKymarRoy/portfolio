@@ -186,15 +186,30 @@ color: black;
     color: black;
 }
 
+.left-certificate{
+    height:300px;
+}
+
 .left-certificate img{
     width:100%;
+    height:300px;
+}
+
+.middle-certificate{
+    height:300px;
 }
 
 .middle-certificate img{
     width:100%;
+    height:300px;
+}
+
+.right-certificate{
+    height:300px;
 }
 
 .right-certificate img{
     width:100%;
+    height:300px;
 }
 
