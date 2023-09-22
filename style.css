@@ -174,3 +174,27 @@ color: black;
     color:black;
 }
 
+
+/* CONTAINER5 */
+.container5{
+    background-image:url("images/coverpage5.jpg");
+    border-radius: 25px;
+    background-size: cover;
+}
+
+.container5 h1{
+    color: black;
+}
+
+.left-certificate img{
+    width:100%;
+}
+
+.middle-certificate img{
+    width:100%;
+}
+
+.right-certificate img{
+    width:100%;
+}
+
