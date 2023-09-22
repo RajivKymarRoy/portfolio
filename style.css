@@ -1,0 +1,176 @@
+.dfrnt-clrs {
+    height: 200px;
+}
+
+.top-row {
+    height: 200px;
+}
+
+.top-leftdiv {
+    height: 200px;
+    /* background-color: aqua; */
+}
+
+.top-leftdiv:hover {
+    background-color: brown;
+}
+
+.top-leftdiv1 {
+    height: 100px;
+    /* background-color: cadetblue; */
+}
+
+.child-leftdiv1 {
+    height: 100px;
+    /* background-color: blue; */
+}
+
+.child-leftdiv1:hover {
+    background-color: aqua;
+}
+
+.child-rightdiv1 {
+    height: 100px;
+    /* background-color: black; */
+}
+
+.child-rightdiv1:hover {
+    background-color: rgb(58, 57, 57);
+}
+
+.top-rightdiv {
+    height: 200px;
+    /* background-color: rgb(6, 70, 70); */
+}
+
+.top-rightdiv1 {
+    height: 100px;
+}
+
+.top-rightdiv1:hover {
+    background-color: darkblue;
+}
+
+.top-rightdiv2 {
+    height: 100px;
+    /* background-color: coral; */
+}
+
+.top-rightdiv2:hover {
+    background-color: cornflowerblue;
+}
+
+.main-container1 {
+    
+    background-image: url("images/ai\ cover-page.jpg");
+    background-position: center center;
+    background-size: cover;
+    border-radius: 25px;
+}
+
+.main-container1-right li{
+    color: antiquewhite;
+}
+
+.first-row {
+    height: 300px;
+    /* background-color: blue; */
+}
+
+.main-container1-left {
+    height: 300px;
+    /* background-color: aqua; */
+    text-align: center;
+}
+
+.main-container1-left img {
+    height: 300px;
+    width: 100%;
+    /* border-radius: 25px; */
+    border-radius: 50%;
+    position: relative;
+    top: 15px;
+}
+
+
+
+.main-container1-right {
+    height: 300px;
+    /* background-color: black; */
+    border-radius: 25px;
+    text-align: left;
+}
+
+.main-container1-right ul{
+    position:relative;
+    top:100px;
+}
+
+h1 {
+    color: aliceblue;
+    position: relative;
+    top: 15px;
+}
+
+hr {
+    color: aliceblue;
+    height: 25px;
+}
+
+li {
+    color: aliceblue;
+}
+
+.second-row {
+    height: 200px;
+    /* background-color: aqua; */
+}
+
+/* MAIN-CONTAINER2 */
+.main-container2 {
+    border-radius: 25px;
+    background-image: url("images/coverpage2.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: left;
+}
+
+.container2 h1{
+    color: black;
+}
+
+.container2 li{
+    color: black;
+    
+}
+
+/* MAIN-CONTAINER3 */
+.main-container3{
+    border-radius: 25px;
+    background-image:url("images/coverpage3.jpg")
+}
+
+.projects h1, li{
+    color: black;
+}
+
+
+/* MAIN-CONTAINER4 */
+.main-container4{
+    background-image: url("images/coverpage4.jpg");
+    border-radius:25px;
+    background-size: cover;
+}
+
+.main-container4 h1{
+color: black;
+}
+
+.strengths li{
+    color: black;
+}
+
+.weaknesses li{
+    color:black;
+}
+
